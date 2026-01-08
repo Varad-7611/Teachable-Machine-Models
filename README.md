@@ -57,6 +57,3 @@ The model is trained using Google's intuitive web-based interface and then integ
 - Category 3: 🟢
 
 ---
-
-## 📁 Folder Structure
-
